@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">SAI</string>
+    <string name="logo">Logo</string>
+    <string name="username_hint">Usuario</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="login_button_text">Iniciar sesión</string>
+    <string name="login_success">Login exitoso</string>
+    <string name="login_failed">Usuario o contraseña incorrectos</string>
+    <string name="login_invalid_inputs">Por favor, complete todos los campos</string>
+    <string name="api_error">Error al cargar las empresas</string>
+    <string name="main_content">Contenido Principal</string>
+    <string name="nav_configuracion">Configuraciones</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_activos_fijos">Activos Fijos</string>
+    <string name="nav_bancos">Bancos</string>
+    <string name="nav_compras">Compras</string>
+    <string name="nav_pedidos">Pedidos</string>
+    <string name="nav_contabilidad">Contabilidad</string>
+    <string name="nav_inventarios">Inventarios</string>
+    <string name="nav_mantenimiento">Mantenimiento</string>
+    <string name="nav_planillas">Planillas</string>
+    <string name="nav_reclutamiento">Reclutamiento</string>
+    <string name="nav_ventas">Ventas</string>
+    <string name="nav_auditoria">Auditoría</string>
+</resources>
